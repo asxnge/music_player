@@ -1,4 +1,4 @@
-Music Player на Python
+*Music Player на Python*
 
 - Для работы с файлом требуется установить библиотеку PyGame
 
